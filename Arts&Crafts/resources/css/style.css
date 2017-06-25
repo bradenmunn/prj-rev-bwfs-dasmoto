@@ -1,0 +1,38 @@
+/* What is a good id name for the main title section of a website? (the part that I have labeled with id #main). Is there a standard/widely accepted name for this section?*/
+#main {
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
+}
+
+.section-header {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+.brushes .section-header {
+  background-color: mediumspringgreen;
+}
+
+.frames .section-header {
+  background-color: lightcoral;
+}
+
+.paint .section-header {
+  background-color: skyblue;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.price {
+  font-family: Helvetica;
+  color: blue;
+  font-weight: bold;
+}
